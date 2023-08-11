@@ -9,7 +9,7 @@ body {
 }
 
 .abdal .container {
-    max-width: 1200px;
+    width:90vw;
     margin: 0 auto;
     padding: 20px;
     display: flex;
